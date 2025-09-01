@@ -8,6 +8,22 @@
     - name: Mobile
       value: (312) 701 4597
 
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Trasnportation Infrastructure Management 
+      items:
+        - Autonomous condition monitoring-based pavement management systems
+        - Smart road management systems
+    - title: Optimization of transportation systems planning and operation
+      items:
+        - Advanced air mobility systems
+        - Transit network systems 
+    - title: Big data analysis and deep learning 
+      items:
+        - Multi-agent reinforcement learning
+        - Graph diffusion convolutional network 
+
 - title: Education
   type: time_table
   contents:
@@ -78,18 +94,6 @@
     - year: 2029
       items:
         - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
 - title: Other Interests
   type: list
