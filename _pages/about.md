@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>KAIST</a>. 
+subtitle: <a href='#'>Transportation Researcher</a> 
 
 profile:
   align: right
