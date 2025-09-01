@@ -32,7 +32,7 @@
       year: 2023
       description:
         - Ph.D. in the Graduate School of Mobility
-        - title: Dissertation title:
+        - title: Dissertation title
           contents:
             - Optimal road asset management system considering condition inspection policies and information value
     - title: M.S.
@@ -40,7 +40,7 @@
       year: 2019
       description:
         - M.S. in Civil and Environmental Engineering 
-        - title: Thesis title:
+        - title: Thesis title
           contents:
             - New section based congestion index for application in enhancing missing value imputation and predicting travel time
     - title: B.S.
