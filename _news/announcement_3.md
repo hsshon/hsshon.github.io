@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Got married:smile:
+Married:smile:
