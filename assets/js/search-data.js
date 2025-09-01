@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/people/";
-          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
@@ -417,11 +410,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-earned-my-ph-d-sparkles",
+          title: 'Earned my Ph.D.:sparkles:',
           description: "",
-          section: "News",},{id: "news-earned-my-ph-d",
-          title: 'Earned my Ph.D.',
+          section: "News",},{id: "news-got-married-smile",
+          title: 'Got married:smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
