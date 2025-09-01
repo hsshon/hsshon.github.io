@@ -11,7 +11,7 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Trasnportation Infrastructure Management 
+    - title: Trasnportation infrastructure management 
       items:
         - Autonomous condition monitoring-based pavement management systems
         - Smart road management systems
