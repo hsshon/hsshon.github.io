@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Ph.D. awarded:sparkles: 
+Ph.D. awarded :sparkles: 
