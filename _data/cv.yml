@@ -48,7 +48,23 @@
       year: 2017
       description:
         - B.S. in Civil and Environmental Engineering 
-        
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - Best paper award, The 86th Conference of Korean Society of Transportation
+    - year: 2021
+      items:
+        - Best paper award, Conference of Korean Society of Civil Engineering
+    - year: 2020
+      items:
+        - Best paper award, The 83rd Conference of Korean Society of Transportation
+    - year: 2017
+      items:
+        - President award, Korean Society of Transportation
+
 - title: Experience
   type: time_table
   contents:
@@ -71,17 +87,6 @@
     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
       year: 2015-now
       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
 
 - title: Other Interests
   type: list
