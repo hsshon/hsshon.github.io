@@ -410,11 +410,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-earned-my-ph-d",
-          title: 'Earned my Ph.D.',
+            },},{id: "news-earned-my-ph-d-sparkles",
+          title: 'Earned my Ph.D.:sparkles:',
           description: "",
-          section: "News",},{id: "news-got-married-smile",
-          title: 'Got married:smile:',
+          section: "News",},{id: "news-married-smile",
+          title: 'Married:smile:',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
