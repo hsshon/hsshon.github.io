@@ -49,22 +49,6 @@
       description:
         - B.S. in Civil and Environmental Engineering 
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2022
-      items:
-        - Best paper award, The 86th Conference of Korean Society of Transportation
-    - year: 2021
-      items:
-        - Best paper award, Conference of Korean Society of Civil Engineering
-    - year: 2020
-      items:
-        - Best paper award, The 83rd Conference of Korean Society of Transportation
-    - year: 2017
-      items:
-        - President award, Korean Society of Transportation
-
 - title: Experience
   type: time_table
   contents:
@@ -81,6 +65,22 @@
       institution: KAIST
       year: 2019-2020
   
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - Best paper award, The 86th Conference of Korean Society of Transportation
+    - year: 2021
+      items:
+        - Best paper award, Conference of Korean Society of Civil Engineering
+    - year: 2020
+      items:
+        - Best paper award, The 83rd Conference of Korean Society of Transportation
+    - year: 2017
+      items:
+        - President award, Korean Society of Transportation
+
 - title: Open Source Projects
   type: time_table
   contents:
