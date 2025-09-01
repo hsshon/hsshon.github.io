@@ -2,11 +2,11 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Heeseung Shon
+    - name: Email
+      value: hs.shon91@gmail.com
+    - name: Mobile
+      value: (312) 701 4597
 
 - title: Education
   type: time_table
