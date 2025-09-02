@@ -1,3 +1,4 @@
+# _data/cv.yml
 - title: General Information
   type: map
   contents:
@@ -5,15 +6,90 @@
       value: Heeseung Shon
     - name: Email
       value: hs.shon91@gmail.com
+    - name: Mobile
+      value: (312) 701 4597
+
+- title: Academic Interests
+  type: nested_list
+  contents:
+    - title: Transportation infrastructure management
+      items:
+        - Autonomous condition monitoring-based pavement management systems
+        - Smart road management systems
+    - title: Optimization of transportation systems planning and operation
+      items:
+        - Advanced air mobility systems
+        - Transit network systems
+    - title: Big data analysis and deep learning
+      items:
+        - Multi-agent reinforcement learning
+        - Graph diffusion convolutional network
 
 - title: Education
   type: time_table
   contents:
-    - title: "Ph.D."
+    - title: Ph.D.
       institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
-      year: "2023"
+      year: 2023
       description:
-        - "Ph.D. in the Graduate School of Mobility"
+        - Ph.D. in the Graduate School of Mobility
         - title: "Dissertation title:"
           contents:
-            - "Optimal road asset management system considering condition inspection policies and information value"
+            - Optimal road asset management system considering condition inspection policies and information value
+    - title: M.S.
+      institution: Korea University, Seoul, South Korea
+      year: 2019
+      description:
+        - M.S. in Civil and Environmental Engineering
+        - title: "Thesis title:"
+          contents:
+            - New section based congestion index for application in enhancing missing value imputation and predicting travel time
+    - title: B.S.
+      institution: Korea University, Seoul, South Korea
+      year: 2017
+      description:
+        - B.S. in Civil and Environmental Engineering
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Postdoctoral researcher
+      institution: The University of Illinois at Chicago
+      year: "2024–2025"
+    - title: Visiting scholar
+      institution: The University of Illinois at Chicago
+      year: "2023–2024"
+    - title: Postdoctoral researcher
+      institution: KAIST
+      year: "2023"
+    - title: Researcher
+      institution: KAIST
+      year: "2019–2020"
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2022
+      items:
+        - Best paper award, The 86th Conference of Korean Society of Transportation
+    - year: 2021
+      items:
+        - Best paper award, Conference of Korean Society of Civil Engineering
+    - year: 2020
+      items:
+        - Best paper award, The 83rd Conference of Korean Society of Transportation
+    - year: 2017
+      items:
+        - President award, Korean Society of Transportation
+
+- title: Open Source Projects
+  type: time_table
+  contents:
+    - title: '<a href="https://github.com/alshedivat/al-folio">al-folio</a>'
+      year: "2015–now"
+      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Other Interests
+  type: list
+  contents:
+    - "<u>Hobbies:</u> Hobby 1, Hobby 2, etc."
