@@ -7,6 +7,5 @@ nav_order: 2
 ---
 
 <div class="publications">
-## Peer-reviewed journal publications
 {% bibliography %}
 </div>
