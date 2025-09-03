@@ -14,16 +14,16 @@
   contents:
     - title: Transportation infrastructure management
       items:
-        - Autonomous condition monitoring-based pavement management systems
+        - Autonomous condition monitoring–based pavement management systems
         - Smart road management systems
     - title: Optimization of transportation systems planning and operation
       items:
         - Advanced air mobility systems
         - Transit network systems
-    - title: Big data analysis and deep learning
+    - title: Big data analytics and deep learning
       items:
         - Multi-agent reinforcement learning
-        - Graph diffusion convolutional network
+        - Graph diffusion convolutional networks
 
 - title: Education
   type: time_table
@@ -32,34 +32,32 @@
       institution: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, South Korea
       year: 2023
       description:
-        - Ph.D. in the Graduate School of Mobility
-        - title: "Dissertation title:"
-          contents:
-            - Optimal road asset management system considering condition inspection policies and information value
+        - Graduate School of Mobility
+        - title: "Dissertation title: Optimal road asset management system considering condition inspection policies and information value"
+        
     - title: M.S.
       institution: Korea University, Seoul, South Korea
       year: 2019
       description:
-        - M.S. in Civil and Environmental Engineering
-        - title: "Thesis title:"
-          contents:
-            - New section based congestion index for application in enhancing missing value imputation and predicting travel time
+        - Civil and Environmental Engineering
+        - title: "Thesis title: New section-based congestion index for application in enhancing missing value imputation and predicting travel time"
+
     - title: B.S.
       institution: Korea University, Seoul, South Korea
       year: 2017
       description:
-        - B.S. in Civil and Environmental Engineering
+        - Civil and Environmental Engineering
 
 - title: Experience
   type: time_table
   contents:
-    - title: Postdoctoral researcher
-      institution: The University of Illinois at Chicago
+    - title: Postdoctoral Researcher
+      institution: The University of Illinois at Chicago (UIC)
       year: "2024–2025"
-    - title: Visiting scholar
-      institution: The University of Illinois at Chicago
+    - title: Visiting Scholar
+      institution: The University of Illinois at Chicago (UIC)
       year: "2023–2024"
-    - title: Postdoctoral researcher
+    - title: Postdoctoral Researcher
       institution: KAIST
       year: "2023"
     - title: Researcher
@@ -71,25 +69,53 @@
   contents:
     - year: 2022
       items:
-        - Best paper award, The 86th Conference of Korean Society of Transportation
+        - Best Paper Award, The 86th Conference of the Korean Society of Transportation
     - year: 2021
       items:
-        - Best paper award, Conference of Korean Society of Civil Engineering
+        - Best Paper Award, Conference of the Korean Society of Civil Engineering
     - year: 2020
       items:
-        - Best paper award, The 83rd Conference of Korean Society of Transportation
+        - Best Paper Award, The 83rd Conference of the Korean Society of Transportation
     - year: 2017
       items:
-        - President award, Korean Society of Transportation
+        - President’s Award, Korean Society of Transportation
 
-- title: Open Source Projects
+- title: Languages
+  type: map
+  contents:
+    - name: English
+      value: Proficient
+    - name: Korean
+      value: Native
+
+- title: Skills
+  type: map
+  contents:
+    - name: Advanced
+      value: Python, MATLAB, R, Microsoft Office
+    - name: Intermediate
+      value: C++, PTV Vissim, EMME, LaTeX
+
+- title: Military Service
   type: time_table
   contents:
-    - title: '<a href="https://github.com/alshedivat/al-folio">al-folio</a>'
-      year: "2015–now"
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Sergeant
+      institution: Republic of Korea Army
+      year: "2011–2013"
+
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - title: Research Assistant
+      year: "Spring 2017"
+      description:
+        - Supported faculty research and assisted/mentored undergraduate research assistants with data collection, preprocessing, and analysis for transportation projects.
+    - title: Teaching Assistant
+      year: "Fall 2017"
+      description:
+        - Assisted instruction and labs for the Surveying course; prepared materials, graded assignments, and held office hours.
 
 - title: Other Interests
   type: list
   contents:
-    - "<u>Hobbies:</u> Hobby 1, Hobby 2, etc."
+    - "<u>Hobbies:</u> Playing golf, watching baseball, and playing strategy games."
