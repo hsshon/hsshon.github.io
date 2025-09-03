@@ -67,18 +67,18 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2022
-      items:
-        - Best Paper Award, The 86th Conference of the Korean Society of Transportation
-    - year: 2021
-      items:
-        - Best Paper Award, Conference of the Korean Society of Civil Engineering
-    - year: 2020
-      items:
-        - Best Paper Award, The 83rd Conference of the Korean Society of Transportation
-    - year: 2017
-      items:
-        - President’s Award, Korean Society of Transportation
+    - title: Best Paper Award
+      institution: The 86th Conference of the Korean Society of Transportation
+      year: 2022
+    - title: Best Paper Award
+      institution: Conference of the Korean Society of Civil Engineering
+      year: 2021
+    - title: Best Paper Award
+      institution: The 83rd Conference of the Korean Society of Transportation
+      year: 2020
+    - title: President’s Award
+      institution: Korean Society of Transportation
+      year: 2017
 
 - title: Languages
   type: map
