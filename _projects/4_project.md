@@ -53,3 +53,15 @@ Results
 <div class="caption">
     Propose a condition monitoring-based road aseet management system 
 </div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-8 offset-md-3">
+        {% include figure.liquid loading="eager" path="assets/img/39.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+<div class="caption">
+    Overall methodology
+</div>
+
