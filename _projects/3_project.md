@@ -13,11 +13,16 @@ Project Description
 
 Role & Contributions 
 
-- Led the field diagnostic and stakeholder consultations; compared Korea–Dominican approaches to derive improvement tasks and roadmap items. 
-- Designed the framework: specified modules for condition survey/evaluation, repair-method determination, repair-priority setting, and budget allocation; defined the supporting web-based database and annual update workflow. 
-- Defined data collection schemas for the inventory and condition layers (e.g., segment attributes, ancillary structures, drainage, climate/land-use), ensuring compatibility with operations and planning. 
-- Proposed prioritization principles that account for Dominican climate and disaster frequency (rainy-season flooding, hurricanes/earthquakes), emphasizing preventive maintenance to reduce long-run social costs. 
-- Organized and delivered capacity-building: initiation/interim/final briefings and online training for public officials; consolidated feedback into the final strategy. 
+- Led the field diagnostic and stakeholder consultations; compared Korea–Dominican approaches to derive improvement tasks and roadmap items.
+  
+- Designed the framework: specified modules for condition survey/evaluation, repair-method determination, repair-priority setting, and budget allocation; defined the supporting web-based database and annual update workflow.
+  
+- Defined data collection schemas for the inventory and condition layers (e.g., segment attributes, ancillary structures, drainage, climate/land-use), ensuring compatibility with operations and planning.
+  
+- Proposed prioritization principles that account for Dominican climate and disaster frequency (rainy-season flooding, hurricanes/earthquakes), emphasizing preventive maintenance to reduce long-run social costs.
+  
+- Organized and delivered capacity-building: initiation/interim/final briefings and online training for public officials; consolidated feedback into the final strategy.
+  
 - Authored the phased implementation roadmap and trial-application plan to move from detailed design to deployment and monitoring.
 
 Methods & Tools 
