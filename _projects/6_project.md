@@ -2,7 +2,7 @@
 layout: page
 title: Jeju Innovation City Smart-Mobility Living Lab
 description: Funded by Jeju Free International City Development Center
-img: 
+img: assets/img/36.jpg
 importance: 6
 category: work
 ---
