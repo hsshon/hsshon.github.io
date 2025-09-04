@@ -414,9 +414,9 @@ ninja.data = [{
           section: "News",},{id: "news-relocated-to-the-united-states",
           title: 'Relocated to the United States',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-taxi-operation-information-management-system",
+          title: 'Taxi Operation Information Management System',
+          description: "Analyzed large-scale digital tachograph (DTG) taxi data to identify demand hotspots and prototyped detectors for regulatory violations/unauthorized operations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
