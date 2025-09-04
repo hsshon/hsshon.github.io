@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Preliminary Study for a Road Construction Project
-description: Korea Development Institute
+description: Funded by Korea Development Institute
 img: assets/img/3.jpg
 importance: 2
 category: work
