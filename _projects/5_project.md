@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
+title: Urban Mobility Network Analysis & Forecasting with Attention Mechanisms and Graph Neural Networks
+description: Funded by National Research Foundation of Korea 
 img: assets/img/1.jpg
 importance: 5
 category: work
