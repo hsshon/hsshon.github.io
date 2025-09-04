@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Taxi Operation Information Management System
-description: Neighbor System
+description: Funded by Neighbor System
 img: assets/img/12.jpg
 importance: 1
 category: work
