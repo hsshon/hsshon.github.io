@@ -66,7 +66,7 @@ Results
 
 <div class="container">
   <div class="row">
-    <div class="col-md-6 offset-md-3">
+    <div class="col-md-8 offset-md-1">
         {% include figure.liquid loading="eager" path="assets/img/38.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
