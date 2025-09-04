@@ -1,18 +1,28 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Road Asset Management System (RAMS) Strategy for the Dominican Republic
+description: Funded by The Export-Import Bank of Korea
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Project Description 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+- Delivered a country-tailored strategy for a national road asset management system: carried out a local diagnostic and institutional review; benchmarked Korean best practices; and produced a master plan, data model, condition indices, prioritization/budgeting processes, training for officials, and a phased implementation roadmap with a trial application concept.
+
+Role & Contributions 
+
+- Led the field diagnostic and stakeholder consultations; compared Korea–Dominican approaches to derive improvement tasks and roadmap items. 
+- Designed the framework: specified modules for condition survey/evaluation, repair-method determination, repair-priority setting, and budget allocation; defined the supporting web-based database and annual update workflow. 
+- Defined data collection schemas for the inventory and condition layers (e.g., segment attributes, ancillary structures, drainage, climate/land-use), ensuring compatibility with operations and planning. 
+- Proposed prioritization principles that account for Dominican climate and disaster frequency (rainy-season flooding, hurricanes/earthquakes), emphasizing preventive maintenance to reduce long-run social costs. 
+- Organized and delivered capacity-building: initiation/interim/final briefings and online training for public officials; consolidated feedback into the final strategy. 
+- Authored the phased implementation roadmap and trial-application plan to move from detailed design to deployment and monitoring.
+
+Methods & Tools 
+
+- Policy and institutional analysis; asset inventory and pavement-condition index design; maintenance prioritization and budgeting logic; preventive-maintenance economics; GIS-based data modeling; technical writing and stakeholder facilitation.
 
     ---
     layout: page
