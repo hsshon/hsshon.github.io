@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Taxi Operation Information Management System
+description: Analyzed large-scale digital tachograph (DTG) taxi data to identify demand hotspots and prototyped detectors for regulatory violations/unauthorized operations. 
 img: assets/img/12.jpg
 importance: 1
 category: work
