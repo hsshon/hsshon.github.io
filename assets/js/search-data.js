@@ -424,8 +424,8 @@ ninja.data = [{
           description: "Funded by Korea Development Institute",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-road-asset-management-system-strategy-for-the-dominican-republic",
-          title: 'Road Asset Management System Strategy for the Dominican Republic',
+            },},{id: "projects-road-asset-management-system-rams-strategy-for-the-dominican-republic",
+          title: 'Road Asset Management System (RAMS) Strategy for the Dominican Republic',
           description: "Funded by The Export-Import Bank of Korea",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
