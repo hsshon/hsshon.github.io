@@ -7,18 +7,21 @@ importance: 6
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Project Description 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+-Designed the operations-center architecture and algorithms that connect roadside video infrastructure with mobility services. Built an end-to-end prototype in which closed-circuit television (CCTV) streams are ingested, analyzed, and converted into hazard alerts for autonomous vehicles and the control dashboard (e.g., occlusions, low-visibility, wrong-way or stopped vehicles).
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Role & Contributions 
+
+- Defined the system blueprint (data ingestion, processing, event rules, alerting, dashboard) and the interfaces with city sensors and service providers.
+- Implemented the video-analytics pipeline: stream capture → pre-processing → object detection and tracking → event logic → alert packaging and delivery.
+- Prototyped alert delivery to vehicles/center via lightweight messaging and built a simple operator view for triage and acknowledgment.
+- Authored deployment guidelines (camera placement, latency targets, failover, privacy considerations) and scenarios for field piloting and scale-up.
+
+Methods & Tools 
+
+- Convolutional neural networks for video analytics, Python, PyTorch, streaming and message-queue integration.
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
