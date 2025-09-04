@@ -9,7 +9,7 @@ category: work
 
 Project Description 
 
--Designed the operations-center architecture and algorithms that connect roadside video infrastructure with mobility services. Built an end-to-end prototype in which closed-circuit television (CCTV) streams are ingested, analyzed, and converted into hazard alerts for autonomous vehicles and the control dashboard (e.g., occlusions, low-visibility, wrong-way or stopped vehicles).
+- Designed the operations-center architecture and algorithms that connect roadside video infrastructure with mobility services. Built an end-to-end prototype in which closed-circuit television (CCTV) streams are ingested, analyzed, and converted into hazard alerts for autonomous vehicles and the control dashboard (e.g., occlusions, low-visibility, wrong-way or stopped vehicles).
 
 Role & Contributions 
 
