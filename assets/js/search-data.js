@@ -416,7 +416,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-taxi-operation-information-management-system",
           title: 'Taxi Operation Information Management System',
-          description: "Neighbor System",
+          description: "Funded by Neighbor System",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-preliminary-study-for-a-road-construction-project",
