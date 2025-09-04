@@ -421,7 +421,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-preliminary-study-for-a-road-construction-project",
           title: 'Preliminary Study for a Road Construction Project',
-          description: "Korea Development Institute",
+          description: "Funded by Korea Development Institute",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
