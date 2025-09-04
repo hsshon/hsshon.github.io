@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Road Asset Management System (RAMS) Strategy for the Dominican Republic
+title: Road Asset Management System Strategy for the Dominican Republic
 description: Funded by The Export-Import Bank of Korea
 img: assets/img/7.jpg
 importance: 3
