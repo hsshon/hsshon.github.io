@@ -2,7 +2,7 @@
 layout: page
 title: Big-Data- and Optimization-Driven Sustainable Transport Infrastructure Asset Management
 description: Funded by National Research Foundation of Korea 
-img:
+img: assets/img/19.jpg
 importance: 4
 category: work
 ---
