@@ -3,7 +3,7 @@ layout: page
 title: Urban Mobility Network Analysis & Forecasting with Attention Mechanisms and Graph Neural Networks
 description: Funded by National Research Foundation of Korea 
 img: assets/img/1.jpg
-importance: 5
+importance: 1
 category: work
 ---
 
