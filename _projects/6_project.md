@@ -14,8 +14,11 @@ Project Description
 Role & Contributions 
 
 - Defined the system blueprint (data ingestion, processing, event rules, alerting, dashboard) and the interfaces with city sensors and service providers.
+  
 - Implemented the video-analytics pipeline: stream capture → pre-processing → object detection and tracking → event logic → alert packaging and delivery.
+  
 - Prototyped alert delivery to vehicles/center via lightweight messaging and built a simple operator view for triage and acknowledgment.
+  
 - Authored deployment guidelines (camera placement, latency targets, failover, privacy considerations) and scenarios for field piloting and scale-up.
 
 Methods & Tools 
