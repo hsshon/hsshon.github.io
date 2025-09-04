@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Jeju Innovation City Smart-Mobility Living Lab
+description: Funded by Jeju Free International City Development Center
+img: 
+importance: 6
+category: work
 ---
 
 Every project has a beautiful feature showcase page.
