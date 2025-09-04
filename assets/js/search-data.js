@@ -439,9 +439,9 @@ ninja.data = [{
           description: "Funded by National Research Foundation of Korea",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-jeju-innovation-city-smart-mobility-living-lab",
+          title: 'Jeju Innovation City Smart-Mobility Living Lab',
+          description: "Funded by Jeju Free International City Development Center",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
