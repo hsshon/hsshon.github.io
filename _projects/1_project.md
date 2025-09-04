@@ -15,10 +15,15 @@ Project Descriptions
 Role & Contributions
 
 - Engineered detection logic for meter-off illegal operations by computing “empty-to-empty return” frequencies and flagging top-risk vehicles based on distribution thresholds. 
+
 - Developed a map-matching pipeline to classify positions as inside vs. outside the licensed service area, derive boundary-crossing timestamps, and summarize four characteristic movement patterns (e.g., board→out→board, board→out→empty, etc.). 
+
 - Extracted detailed trip records for suspected cases—including last normal drop-off, exit and re-entry times, and origin/destination and fare—to enable targeted enforcement and review. 
+
 - Profiled frequent outside-area destinations and peak operating times of suspected vehicles to guide field inspections and policy. 
+
 - Built the data foundation by integrating boarding/alighting coordinates and times, DTG positional traces, and official service-area polygons. 
+
 - Delivered visual and tabular outputs (distributions, ranked lists) for inclusion in the system’s analysis module and reporting. 
 
 Methods & Tools
