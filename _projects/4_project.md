@@ -32,6 +32,7 @@ Results
 - Published in Transportation Research Part C (2021) and Automation in Construction (2022); numerical experiments show the autonomous monitoring approach reduces social costs versus conventional periodic-inspection PMS.
 
 
+
 <div class="container">
   <div class="row">
     <div class="col-md-8 offset-md-3">
