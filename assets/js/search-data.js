@@ -429,9 +429,9 @@ ninja.data = [{
           description: "Funded by The Export-Import Bank of Korea",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-big-data-and-optimization-driven-sustainable-transport-infrastructure-asset-management",
+          title: 'Big-Data- and Optimization-Driven Sustainable Transport Infrastructure Asset Management',
+          description: "Funded by National Research Foundation of Korea",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
