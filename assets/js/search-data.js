@@ -454,9 +454,9 @@ ninja.data = [{
           description: "Watching baseball",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+            },},{id: "projects-strategy-game",
+          title: 'Strategy Game',
+          description: "Playing Strategy Game",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
             },},{
