@@ -1,25 +1,23 @@
 ---
 layout: page
 title: Taxi Operation Information Management System
-description: Analyzed large-scale digital tachograph (DTG) taxi data to identify demand hotspots and prototyped detectors for regulatory violations/unauthorized operations. 
+description: Neighbor System
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Built analytics on DTG taxi data to support compliance monitoring and operational insights. Designed algorithms and workflows to detect “meter-off” and out-of-service-area operations, and produced audit-ready outputs (tables, lists, and distribution graphs) for the authority and operator.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Role & Contributions
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Engineered detection logic for meter-off illegal operations by computing “empty-to-empty return” frequencies and flagging top-risk vehicles based on distribution thresholds. 
+Developed a map-matching pipeline to classify positions as inside vs. outside the licensed service area, derive boundary-crossing timestamps, and summarize four characteristic movement patterns (e.g., board→out→board, board→out→empty, etc.). 
+Extracted detailed trip records for suspected cases—including last normal drop-off, exit and re-entry times, and origin/destination and fare—to enable targeted enforcement and review. 
+Profiled frequent outside-area destinations and peak operating times of suspected vehicles to guide field inspections and policy. 
+Built the data foundation by integrating boarding/alighting coordinates and times, DTG positional traces, and official service-area polygons. 
+Delivered visual and tabular outputs (distributions, ranked lists) for inclusion in the system’s analysis module and reporting. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
