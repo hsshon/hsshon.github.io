@@ -10,7 +10,7 @@ giscus_comments: true
 
 Project Description 
 
-Conducted a national-standard preliminary feasibility study for a new arterial corridor, integrating demand forecasting, network assignment, and economic/environmental appraisal to compare do-nothing, do-minimum, and staged-build alternatives.
+- Conducted a national-standard preliminary feasibility study for a new arterial corridor, integrating demand forecasting, network assignment, and economic/environmental appraisal to compare do-nothing, do-minimum, and staged-build alternatives.
 
 Role & Contributions 
 
@@ -24,7 +24,7 @@ Role & Contributions
 
 Methods & Tools
 
-EMME (v3), Python, Excel/VBA, QGIS; cost–benefit analysis, capacity and speed–flow analysis, emissions-factor methods.
+- EMME (v3), Python, Excel/VBA, QGIS; cost–benefit analysis, capacity and speed–flow analysis, emissions-factor methods.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
