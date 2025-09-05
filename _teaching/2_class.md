@@ -8,5 +8,7 @@ links:
     url: /assets/teaching/surveying/syllabus.pdf
   - name: Slide 1
     url: /assets/teaching/surveying/labs/
+  - name: Slide 2
+    url: /assets/teaching/surveying/labs/
 ---
 
