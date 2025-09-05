@@ -464,9 +464,9 @@ ninja.data = [{
           description: "Funded by Neighbor System",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_class/";
-            },},{id: "teaching-taxi-operation-information-management-system",
-          title: 'Taxi Operation Information Management System',
-          description: "Funded by Neighbor System",
+            },},{id: "teaching-surveying-teaching-assistant",
+          title: 'Surveying — Teaching Assistant',
+          description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2_class/";
             },},{
