@@ -17,15 +17,15 @@ Role & Contributions
  
 - Specified inspection frequency and grouping logic to reflect heterogeneous deterioration/traffic environments, enabling adaptive group-specific inspection plans under budget limits. 
 
-- Designed a connected-vehicle condition-monitoring concept: normal vehicles stream vibration/images/GPS to estimate current conditions, integrate data, and inform maintenance timing and policy. 
+- Designed a connected-vehicle condition-monitoring concept: z-axis vibration/images/GPS to estimate current conditions, integrate data, and inform maintenance timing and policy. 
  
 - Structured the social-cost objective and cost models balancing user and agency costs (and extensible to environmental externalities). 
 
-- Implemented prototype analytics and scenario studies in Python to quantify network-level benefits under uncertainty (inspection accuracy, frequency, timing).
+- Implemented prototype analytics and scenario studies to quantify network-level benefits under uncertainty (inspection accuracy, frequency, timing).
 
 Methods & Tools 
 
-- Life-cycle cost analysis; Markov decision processes; function approximation and Lagrangian relaxation; stochastic/dynamic optimization; scenario analysis; Python.
+- Life-cycle cost analysis; Markov decision processes; function approximation and Lagrangian relaxation; optimization; scenario analysis; Python.
 
 Results
 
