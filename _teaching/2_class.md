@@ -1,6 +1,6 @@
 ---
 title: Surveying — Teaching Assistant
-category: Undergraduate
+category: Graduate
 importance: 1
 summary: Assisted instruction and labs; prepared materials, graded assignments, and held office hours.
 links:
