@@ -1,12 +1,12 @@
 ---
-title: Transportation Systems — Lecture Materials
-category: Graduate
+title: Civil Infrastructure Data Analytics & Deep Learning
+category: Undergraduate
 importance: 1
-summary: Lecture slides and problem sets for core topics in transportation systems analysis.
+summary: A hands-on undergraduate introduction to Python-based data analytics and deep learning for civil engineering applications, built around labs and real research cases.
 links:
-  - name: Slides
+  - name: Syllabus
     url: /assets/teaching/transport-systems/slides/
-  - name: Problem Sets
+  - name: Slide 1
     url: /assets/teaching/transport-systems/psets/
 ---
 
