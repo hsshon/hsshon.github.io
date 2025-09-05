@@ -9,13 +9,13 @@ category: work
 
 Project Description
 
-- Developed a graph-based forecasting model that learns taxi-flow–driven, time-varying spatial correlations and predicts short-term road-segment speeds. The study used large-scale DTG taxi data from Seoul (≈10-s sampling aggregated to 10-min intervals; two study sites with 451/863 segments; ~40k taxis and ~14M GPS records per day) and applied hidden Markov model map matching before modeling.
+- Developed a graph-based forecasting model that learns taxi-flow–driven, time-varying spatial correlations and predicts short-term and long-term traffic speeds. The study used large-scale DTG taxi data from Seoul (≈10-s sampling aggregated to 10-min intervals; two study sites with 451/863 segments; ~40k taxis and ~14M GPS records per day) and applied hidden Markov model map matching before modeling.
  
 Role & Contributions 
 
 - Designed a graph attention + diffusion architecture that propagates traffic states along the network to capture directional effects and dynamic neighborhood influence; added a recurrent temporal encoder for multi-step speed forecasting.
 
-- Built the data pipeline: DTG ingestion → hidden-Markov map matching → network sparsification and segment-level speed aggregation → training/validation splits and normalization. 
+- Built the data pipeline: Taxi DTG GPS → hidden-Markov map matching → network sparsification and segment-level speed aggregation → training/validation splits and normalization. 
  
 - Established evaluation protocol and baselines (historical average, support-vector regression, graph convolution, recurrent models) with root-mean-squared error and mean-absolute error as primary metrics.
 
