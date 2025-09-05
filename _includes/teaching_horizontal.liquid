@@ -1,0 +1,31 @@
+<div class="col mb-4">
+  <div class="card h-100 project-card">
+    <div class="row no-gutters">
+      {% if project.img %}
+        <div class="col-md-4">
+          <img class="card-img h-100" src="{{ project.img | relative_url }}" alt="{{ project.title }}" style="object-fit: cover;">
+        </div>
+      {% endif %}
+      <div class="{% if project.img %}col-md-8{% else %}col-md-12{% endif %}">
+        <div class="card-body">
+          <h5 class="card-title mb-1">{{ project.title }}</h5>
+          {% if project.category %}
+            <div class="mb-2"><span class="badge badge-secondary">{{ project.category }}</span></div>
+          {% endif %}
+          {% if project.summary %}
+            <p class="card-text">{{ project.summary }}</p>
+          {% endif %}
+          {% if project.links %}
+            <div class="mt-2">
+              {% for L in project.links %}
+                <a class="btn btn-sm btn-outline-primary mr-2 mb-2" href="{{ L.url | relative_url }}" target="_blank" rel="noopener">
+                  {{ L.name }}
+                </a>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
