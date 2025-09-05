@@ -5,7 +5,6 @@ title: Teaching
 description: Teaching materials I plan to use in future courses
 nav: true
 nav_order: 5
-# (선택) 카테고리 블록을 쓰고 싶다면:
 display_categories: [Undergraduate, Graduate]
 ---
 
