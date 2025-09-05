@@ -27,4 +27,4 @@ Role & Contributions
 
 Methods & Tools 
 
-- Policy and institutional analysis; asset inventory and pavement-condition index design; maintenance prioritization and budgeting logic; preventive-maintenance economics; GIS-based data modeling; technical writing and stakeholder facilitation.
+- Policy and institutional analysis; asset inventory and pavement-condition index design; maintenance prioritization and budgeting logic; preventive-maintenance economics.
