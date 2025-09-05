@@ -9,7 +9,8 @@ category: work
 
 Project Descriptions
 
-- Built analytics on DTG taxi data to support compliance monitoring and operational insights. Designed algorithms and workflows to detect “meter-off” and out-of-service-area operations, and produced audit-ready outputs (tables, lists, and distribution graphs) for the authority and operator.
+- Built EMME-based multimodal network scenarios and performed traffic assignment to quantify travel-time savings, safety, and emissions as inputs to cost-benefit analysis. 
+
 
 Role & Contributions
 
