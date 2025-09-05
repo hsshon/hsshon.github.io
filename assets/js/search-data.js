@@ -468,7 +468,7 @@ ninja.data = [{
           title: 'Taxi Operation Information Management System',
           description: "Funded by Neighbor System",
           section: "Teaching",handler: () => {
-              window.location.href = "/teaching/TA/";
+              window.location.href = "/teaching/2_class/";
             },},{
         id: 'social-email',
         title: 'email',
