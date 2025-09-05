@@ -459,14 +459,14 @@ ninja.data = [{
           description: "Playing Strategy Game",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teaching-taxi-operation-information-management-system",
-          title: 'Taxi Operation Information Management System',
-          description: "Funded by Neighbor System",
+            },},{id: "teaching-transportation-systems-lecture-materials",
+          title: 'Transportation Systems — Lecture Materials',
+          description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_class/";
-            },},{id: "teaching-taxi-operation-information-management-system",
-          title: 'Taxi Operation Information Management System',
-          description: "Funded by Neighbor System",
+            },},{id: "teaching-surveying-teaching-assistant",
+          title: 'Surveying — Teaching Assistant',
+          description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2_class/";
             },},{
