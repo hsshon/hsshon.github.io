@@ -9,7 +9,7 @@ category: work
 
 Project Description 
 
-- Conducted a national-standard preliminary feasibility study for a new arterial corridor, integrating demand forecasting, network assignment, and economic/environmental appraisal to compare do-nothing, do-minimum, and staged-build alternatives.
+- Built EMME-based multimodal network scenarios and performed traffic assignment to quantify travel-time savings, safety, and emissions as inputs to cost-benefit analysis. 
 
 Role & Contributions 
 
