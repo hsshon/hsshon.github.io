@@ -1,12 +1,12 @@
 ---
-title: Surveying — Teaching Assistant
+title: Sustainable Transportation Infrastucture Systems 
 category: Graduate
 importance: 1
-summary: Assisted instruction and labs; prepared materials, graded assignments, and held office hours.
+summary: A graduate course on sustainable transportation infrastructure that unites life-cycle cost analysis, asset management, and optimization (LP, DP, metaheuristics) to plan investment, renewal, and operations using GHG, resilience, and equity metrics.
 links:
   - name: Syllabus
     url: /assets/teaching/surveying/syllabus.pdf
-  - name: Lab Materials
+  - name: Slide 1
     url: /assets/teaching/surveying/labs/
 ---
 
