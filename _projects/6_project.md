@@ -18,8 +18,6 @@ Role & Contributions
 - Implemented the video-analytics pipeline: stream capture → pre-processing → object detection and tracking → event logic → alert packaging and delivery.
   
 - Prototyped alert delivery to vehicles/center via lightweight messaging and built a simple operator view for triage and acknowledgment.
-  
-- Authored deployment guidelines (camera placement, latency targets, failover, privacy considerations) and scenarios for field piloting and scale-up.
 
 Methods & Tools 
 
