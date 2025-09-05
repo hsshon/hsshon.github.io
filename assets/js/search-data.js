@@ -464,8 +464,8 @@ ninja.data = [{
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_class/";
-            },},{id: "teaching-surveying-teaching-assistant",
-          title: 'Surveying — Teaching Assistant',
+            },},{id: "teaching-sustainable-transportation-infrastucture-systems",
+          title: 'Sustainable Transportation Infrastucture Systems',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2_class/";
