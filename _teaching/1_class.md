@@ -4,9 +4,9 @@ category: Undergraduate
 importance: 2
 summary: A hands-on undergraduate introduction to Python-based data analytics and deep learning for civil engineering applications, built around labs and real research cases.
 links:
-  - name: Syllabus
-    url: /assets/teaching/transport-systems/slides/
   - name: Slide 1
-    url: /assets/teaching/transport-systems/psets/
+    url: /assets/teaching/Data/slide1/
+  - name: Slide 2
+    url: /assets/teaching/Data/slide2/
 ---
 
