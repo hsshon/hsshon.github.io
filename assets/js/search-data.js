@@ -459,8 +459,8 @@ ninja.data = [{
           description: "Playing Strategy Game",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "teaching-civil-infrastructure-data-analytics-amp-deep-learning",
-          title: 'Civil Infrastructure Data Analytics &amp;amp; Deep Learning',
+            },},{id: "teaching-civil-engineering-data-analytics-and-ai",
+          title: 'Civil Engineering Data Analytics and AI',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/1_class/";
