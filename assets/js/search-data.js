@@ -469,8 +469,8 @@ ninja.data = [{
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/2_class/";
-            },},{id: "teaching-civil-infrastructure-data-analytics-amp-deep-learning",
-          title: 'Civil Infrastructure Data Analytics &amp;amp; Deep Learning',
+            },},{id: "teaching-surveying",
+          title: 'Surveying',
           description: "",
           section: "Teaching",handler: () => {
               window.location.href = "/teaching/3_class/";
