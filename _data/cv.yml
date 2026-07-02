@@ -103,17 +103,17 @@
       institution: Republic of Korea Army
       year: "2011–2013"
 
-- title: Teaching Experience
-  type: time_table
-  contents:
-    - title: Research Assistant
-      year: "Spring 2017"
-      description:
-        - Supported faculty research and assisted/mentored undergraduate research assistants with data collection, preprocessing, and analysis for transportation projects.
-    - title: Teaching Assistant
-      year: "Fall 2017"
-      description:
-        - Assisted instruction and labs for the Surveying course; prepared materials, graded assignments, and held office hours.
+#- title: Teaching Experience
+#  type: time_table
+#  contents:
+#    - title: Research Assistant
+#      year: "Spring 2017"
+#      description:
+#        - Supported faculty research and assisted/mentored undergraduate research assistants with data collection, preprocessing, and analysis for transportation projects.
+#    - title: Teaching Assistant
+#      year: "Fall 2017"
+#      description:
+#        - Assisted instruction and labs for the Surveying course; prepared materials, graded assignments, and held office hours.
 
 - title: Other Interests
   type: list
