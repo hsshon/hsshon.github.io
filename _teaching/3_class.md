@@ -7,6 +7,6 @@ links:
   - name: Slide 1
     url: "/assets/pdf/Surveying%20Engineering%201.pdf"
   - name: Slide 2
-    url: /assets/teaching/Surveying/Slide 2/
+    url: "/assets/pdf/Surveying%20Engineering%202.pdf"
 ---
 
