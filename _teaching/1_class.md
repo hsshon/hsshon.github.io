@@ -8,5 +8,7 @@ links:
     url: "/assets/pdf/Transportation-Data-Analytics-AI-1.pdf"
   - name: Slide 2
     url: /assets/teaching/Data/slide2/
+  - name: Lab
+    url: /assets/teaching/Data/slide2/
 ---
 
