@@ -9,6 +9,6 @@ links:
   - name: Slide 2
     url: /assets/teaching/Data/slide2/
   - name: Lab
-    url: /assets/teaching/Data/slide2/
+    url: "/assets/pdf/Lab-Data-Analytics.pdf"
 ---
 
