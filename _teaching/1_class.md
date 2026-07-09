@@ -6,8 +6,6 @@ summary: This course would introduce students to data analysis and AI methods fo
 links:
   - name: Slide 1
     url: "/assets/pdf/Transportation-Data-Analytics-AI-11.pdf"
-  - name: Slide 2
-    url: /assets/teaching/Data/slide2/
   - name: Lab
     url: "/assets/pdf/Lab-Data-Analytics.pdf"
 ---
